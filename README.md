@@ -9,5 +9,4 @@ The game is a quick clicker game where objects are created on the screen which w
 ![2024-01-0923-46-42-ezgif com-video-to-gif-converter](https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/070ce48f-26f4-44d2-85f6-6140554556b1)
 
 ![boom2](https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/6acf500b-d3f3-4015-b7ba-6b5da50f01be)
-
 ![boom1](https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/bf364490-945b-4aed-884c-03d400e5a06d)
