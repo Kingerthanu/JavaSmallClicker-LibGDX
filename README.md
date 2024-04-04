@@ -4,7 +4,7 @@ ________________________________________________________
 This is a remake of the pygameClicker game but instead written in Java,
 and also using a External Library Called  LibGDX. 
 
-The game is a quick clicker game where objects are created on the screen which will explode after a certain amount of time and the player will try to click all of them with each one that gets removed, spawning a new one. This is a old project which helped me establish good understandings of sprites and structuring pipelines on a single thread and taught me a good amount about handling external libraries.
+The game is a quick clicker game where objects are created on the screen which will explode after a certain amount of time and the player will try to click all of them with each one that gets removed, spawning a new one. This is a old project which helped me establish good understandings of sprites and structuring pipelines on a single thread and taught me a good amount about handling external libraries.<img src="https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/61e8ab19-1e53-4d3c-bda8-5948dc5d887b" alt="Cornstarch <3" width="25" height="29">
 
 <img src="https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/9be6e079-cb96-488d-9b01-1a925b282de5" alt="Cornstarch <3" width="95" height="99">
 
