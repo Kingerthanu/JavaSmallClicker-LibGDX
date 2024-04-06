@@ -13,6 +13,19 @@ The game is a quick clicker game where objects are created on the screen which w
 
 **The Breakdown:**
 
+  This Program Uses LibGDX For Making A Window In Which To Draw On. 
+
+  On The Programs Startup We Will Initialize A Handful Of Squares Onto The Screen And These Squares Will Be Wrapped In Their Own Class In Which Will Represent Them.
+  
+  When Initialized They Will Start A Internal Clock In Which Will Make Them Change From Three Internal Hard-Coded States Of:
+
+  &nbsp;Blue - Ignited (Explosion Won't Happen In This State)
+
+  &nbsp;Red - Ignited (About To Explode)
+
+  &nbsp;Explosion - Kaboom (Still Clickable)
+
+  This Is Very Simple But In The Back-End Was A Interesting Learning Experience For Understanding How Linking Of External Libraries Is Done And Really Why Its Done As Well. It Also Taught Me A Lot Of Logistics And Ways Of Rendering Textures Onto The Screen. 
 
 <img src="https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/26a02f32-4cc5-4ceb-a4a0-8098fc7cd559" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/26a02f32-4cc5-4ceb-a4a0-8098fc7cd559" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/26a02f32-4cc5-4ceb-a4a0-8098fc7cd559" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/26a02f32-4cc5-4ceb-a4a0-8098fc7cd559" alt="Cornstarch <3" width="55" height="49">
 
