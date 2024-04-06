@@ -12,6 +12,8 @@ The game is a quick clicker game where objects are created on the screen which w
 **The Breakdown:**
 
 
+<img src="https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/26a02f32-4cc5-4ceb-a4a0-8098fc7cd559" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/26a02f32-4cc5-4ceb-a4a0-8098fc7cd559" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/26a02f32-4cc5-4ceb-a4a0-8098fc7cd559" alt="Cornstarch <3" width="55" height="49"><img src="https://github.com/Kingerthanu/JavaSmallClicker-LibGDX/assets/76754592/26a02f32-4cc5-4ceb-a4a0-8098fc7cd559" alt="Cornstarch <3" width="55" height="49">
+
 ----------------------------------------------
 
 **Features:**
