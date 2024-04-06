@@ -13,9 +13,11 @@ The game is a quick clicker game where objects are created on the screen which w
 
 **The Breakdown:**
 
-  This Program Uses LibGDX For Making A Window In Which To Draw On. 
+  This Program Uses LibGDX For Making A Window In Which To Display Our Game. 
 
-  On The Programs Startup We Will Initialize A Handful Of Squares Onto The Screen And These Squares Will Be Wrapped In Their Own Class In Which Will Represent Them.
+  On The Programs Startup We Will Initialize A Handful Of Squares Onto The Screen And These Squares Will Be Wrapped In Their Own Class In Which Will Represent Them As Bombs For Our Game.
+
+  The Square Class Will Contain Its Loaded Textures, As Well As Collision Logic And Cleanup For Reporting Back A Hit To Our External Counter In Which We Show On The Screen In The Top Left Corner.
   
   When Initialized They Will Start A Internal Clock In Which Will Make Them Change From Three Internal Hard-Coded States Of:
 
